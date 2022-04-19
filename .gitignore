@@ -1,0 +1,5 @@
+*.fig
+.DS_Store
+.prettierignoredesign  
+design  
+style-guide.md  
